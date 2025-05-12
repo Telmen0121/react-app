@@ -2,6 +2,7 @@
   "name": "mongolian-stock-exchange-intro",
   "private": true,
   "version": "0.1.0",
+  "homepage": ".",
   "type": "module",
   "scripts": {
     "dev": "vite",
